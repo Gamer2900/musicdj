@@ -1,0 +1,47 @@
+body {
+  background-size: cover;
+}
+
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.note {
+  font-size: 15px;
+  color: rgb(11, 11, 37);
+}
+
+.div_speed {
+  float: left;
+}
+
+.div_volume {
+    float: right;
+  }
+
+.div_speed_img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+#speed #volume{
+  font-size: 23px;
+  margin: 15px;
+}
+
+.div_volume_img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+.play_button {
+  width: 175px;
+  font-size: 25px;
+}
+
+canvas {
+  border: 5px solid rgb(208, 243, 252);
+  border-radius: 20px;
+}
